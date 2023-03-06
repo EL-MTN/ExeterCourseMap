@@ -38,7 +38,7 @@
   "devDependencies": {
     "@types/googletag": "^2.2.4",
     "@types/gtag.js": "^0.0.12",
-    "@types/node": "18.7.16",
+    "@types/node": "18.14.6",
     "@types/react": "18.0.20",
     "@types/react-gtm-module": "^2.0.1",
     "@types/three": "^0.144.0",
